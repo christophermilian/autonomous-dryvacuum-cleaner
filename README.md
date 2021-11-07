@@ -4,12 +4,13 @@
 This is the repository holding the Python code for our senior design project. 
 
 ## Technologies
-Python
-RaspberryPi 4
-Ultrasonic Senor
+- Python
+- RaspberryPi 4
+- Arduino Uno
+- RPLidar A1
 
 ## Environment
-This project is being developed on a rapsberry pi computer and uses libraries that communicate with the onboard GPIO pins of the PI. 
+This project is being developed on a Raspberry Pi 4 B and Arduino Uno. It utilizes ROS for node management.  
 
 ## Setup
 Coming soon!
