@@ -1,7 +1,7 @@
 # Autonomous Dryvacuum Cleaner for Enriched Uranium
 
 ## Description
-This is the repository holding the Python code for our senior design project. 
+This is the repository holding the catkin workspace to our ROS-controlled robot being developed for Senior Design 2 at FIU, Fall 2021. 
 
 ## Technologies
 - Python
