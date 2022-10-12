@@ -2,9 +2,14 @@
 
 ## Description
 This is the repository holding the catkin workspace to our ROS-controlled robot being developed for Senior Design 2 at FIU, Fall 2021. 
-The team designed the autonomous dry-vacuum cleaner to navigate through facilities and effectively collect any debris in its path. This device will identify any
-debris and safely pick it up without user intervention. The device will be easy to maintain, will avoid  obstacles, and will not have any wireless 
-communication technology
+
+## Probem Statement
+The team designed the autonomous dry-vacuum cleaner to navigate through facilities and effectively collect any debris in its path. This device will identify
+any debris and safely pick it up without user intervention. The device will be easy to maintain, will avoid  obstacles, and will not have any wireless 
+communication technology.
+
+## Proof of Concept Video
+https://www.youtube.com/watch?v=D23Nu0H2RLo
 
 ## Technologies
 - Python
@@ -22,9 +27,6 @@ This project was developed on a Raspberry Pi 4B and an Arduino Uno. It utilizes 
 ### The Robot
 ![IMG-20211128-WA0003](https://user-images.githubusercontent.com/43291127/195437345-71d1c015-ceab-45c4-ab68-569dfd0f98e3.jpg)
 ![IMG-20211128-WA0002](https://user-images.githubusercontent.com/43291127/195437529-398759e1-523a-4d96-99d6-c09c4e718887.jpg)
-
-## Setup
-Coming soon!
 
 ## Code Owners
 Christopher Milian
