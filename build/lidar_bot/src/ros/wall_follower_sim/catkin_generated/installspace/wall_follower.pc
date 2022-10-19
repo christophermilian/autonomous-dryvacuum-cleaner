@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/catkin_ws/install
-
-Name: wall_follower
-Description: Description of wall_follower
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
