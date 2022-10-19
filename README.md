@@ -11,8 +11,12 @@ communication technology.
 ## Proof of Concept Video
 https://www.youtube.com/watch?v=D23Nu0H2RLo
 
+![image](https://user-images.githubusercontent.com/43291127/196796945-cb2aef3d-1adc-48a1-a45d-b06642b25361.png)
+
 ## Technologies
 - Python
+- C/C++
+- ROS
 - RaspberryPi 4
 - Arduino Uno
 - RPLidar A1
@@ -29,8 +33,8 @@ This project was developed on a Raspberry Pi 4B and an Arduino Uno. It utilizes 
 ![IMG-20211128-WA0002](https://user-images.githubusercontent.com/43291127/195437529-398759e1-523a-4d96-99d6-c09c4e718887.jpg)
 
 ## Code Owners
-Christopher Milian
-Nathaly Valle
-Marcelino Gonzalez
-Angel Santana
-James Carranza 
+- Christopher Milian
+- Nathaly Valle
+- Marcelino Gonzalez
+- Angel Santana
+- James Carranza 
