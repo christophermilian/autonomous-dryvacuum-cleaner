@@ -1,0 +1,21 @@
+<launch>
+
+
+        <arg name="model" default="$(find mobile_robot_description)/urdf/robot_"/>
+	<arg name="rvizconfig" default="$(find mobile_robot_description)/rviz/robot_urdf.rviz" />
+
+	<!-- Parsing xacro and setting robot_description parameter -->
+	<param name="robot_description" command="$(find xacro)/xacro --inorder $(find mobile_robot_description)/urdf/robot_model.xacro" />
+
+	<!-- Starting robot state publish which will publish tf -->
+	<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+         
+        <!-- Starting joint state publish into tf -->
+        <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher">
+          <param name="use_gui" value="false"/>
+        </node>
+
+	<!-- Launch visualization in rviz -->
+<!--<node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)" required="true"/>--> 
+
+</launch>

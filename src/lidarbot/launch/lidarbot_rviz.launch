@@ -1,0 +1,5 @@
+<!-- Initial pose and 2d nav goal publisher-->
+<!--Publish /initialpose /move_base_simple/goal-->
+<node 
+    pkg="rviz" type="rviz" name="rviz" args="/home/ubuntu/floorplan4.rviz">
+</node>
