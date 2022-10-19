@@ -28,6 +28,11 @@ This project was developed on a Raspberry Pi 4B and an Arduino Uno. It utilizes 
 ### The Team
 ![IMG-20211127-WA0018](https://user-images.githubusercontent.com/43291127/195437102-b3951afb-d370-46f7-8d87-4858bb9db32e.jpg)
 
+## Design
+![image](https://user-images.githubusercontent.com/43291127/196797128-f6209fe4-2702-4d6d-a558-6bc35925dc8c.png)
+
+![image](https://user-images.githubusercontent.com/43291127/196797147-2eaa989e-d074-4817-aa4a-4047cd239a0a.png)
+
 ### The Robot
 ![IMG-20211128-WA0003](https://user-images.githubusercontent.com/43291127/195437345-71d1c015-ceab-45c4-ab68-569dfd0f98e3.jpg)
 ![IMG-20211128-WA0002](https://user-images.githubusercontent.com/43291127/195437529-398759e1-523a-4d96-99d6-c09c4e718887.jpg)
