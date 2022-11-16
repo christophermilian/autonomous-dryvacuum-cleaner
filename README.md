@@ -25,8 +25,6 @@ https://www.youtube.com/watch?v=D23Nu0H2RLo
 This project was developed on a Raspberry Pi 4B and an Arduino Uno. It utilizes ROS (ros.org) for the software stack.  
 
 ## Pictures
-### The Team
-![IMG-20211127-WA0018](https://user-images.githubusercontent.com/43291127/195437102-b3951afb-d370-46f7-8d87-4858bb9db32e.jpg)
 
 ## Design
 ![image](https://user-images.githubusercontent.com/43291127/196797128-f6209fe4-2702-4d6d-a558-6bc35925dc8c.png)
